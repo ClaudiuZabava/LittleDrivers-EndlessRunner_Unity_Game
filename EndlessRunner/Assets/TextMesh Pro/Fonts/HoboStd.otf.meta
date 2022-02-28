@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6af74ee29ba3cf14c8eb2aa9d1bd588a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hobo Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d836ba0a2722aee4e91f017b4ba9f288, type: 3}
+  - {fileID: 12800000, guid: bba86cc492efacb46bd1319c5f71c43f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
